@@ -1,0 +1,7 @@
+scrapy
+selenium
+beautifulsoup4
+psutil
+pandas
+openpyxl
+lxml
